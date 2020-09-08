@@ -7,9 +7,9 @@ import time
 print("Welcome to Teach Python 1.0!")
 print("")
 
-import #Choose which Module to Import Here!
+import Module_1b #Choose which Module to Import Here!
 
-import #Choose which Exercise to Import Here!
+#import Choose which Exercise to Import Here!
 
 # Modules can be run in the console, and function more like quizzes and checks.
 
